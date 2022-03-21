@@ -1,2 +1,2 @@
 # Multivariate-Analysis-Methods
-cluster analysis
+cluster analysis,dendograms(Encadenamiento simple,completo,WARD
